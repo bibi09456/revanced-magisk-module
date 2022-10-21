@@ -1,9 +1,9 @@
 CLI: revanced-cli-2.15.0-all.jar  
-Integrations: app-release-unsigned-v0.52.1.apk  
-Patches: revanced-patches-2.83.2.jar  
-#### [2.83.2](https://github.com/revanced/revanced-patches/compare/v2.83.1...v2.83.2) (2022-10-19)
+Integrations: app-release-unsigned-v0.54.0.apk  
+Patches: revanced-patches-2.85.1.jar  
+#### [2.85.1](https://github.com/revanced/revanced-patches/compare/v2.85.0...v2.85.1) (2022-10-21)
 ### Bug Fixes
-* **youtube/video-ads:** add back initial method to block ads ([#818](https://github.com/revanced/revanced-patches/issues/818)) ([8b02acd](https://github.com/revanced/revanced-patches/commit/8b02acd3b33c4702d81ec46dccb35604ec5fbe02))
+* **youtube/theme:** extend dark mode theming ([#827](https://github.com/revanced/revanced-patches/issues/827)) ([6d803c5](https://github.com/revanced/revanced-patches/commit/6d803c5386e1f6f6fb6a7fa0a9f0bb81ee1022ac))
 
   
 YouTube: 17.36.37  
