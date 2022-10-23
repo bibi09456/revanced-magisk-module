@@ -8,11 +8,7 @@ Patches: revanced-patches-2.85.2.jar
 
   
 YouTube: 17.36.37  
-YouTube: 17.36.37  
 Music (arm64-v8a): 5.29.52  
-Music (arm64-v8a): 5.29.52  
-Music (arm-v7a): 5.29.52  
-Music (arm-v7a): 5.29.52  
 Reddit: 2022.39.1  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
