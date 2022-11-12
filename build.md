@@ -8,8 +8,8 @@ Patches: revanced-patches-2.106.1.jar
 
   
 **App Versions:**  
-Reddit: 2022.42.0  
 YouTube: 17.43.36  
+Reddit: 2022.42.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
