@@ -1,10 +1,10 @@
 CLI: revanced-cli-2.16.1-all.jar  
 Integrations: app-release-unsigned-v0.71.0.apk  
-Patches: revanced-patches-2.111.2.jar  
+Patches: revanced-patches-2.112.0.jar  
 
-#### [2.111.2](https://github.com/revanced/revanced-patches/compare/v2.111.1...v2.111.2) (2022-11-18)
-### Bug Fixes
-* **youtube/general-ads:** import correct compatibility annotation ([#1065](https://github.com/revanced/revanced-patches/issues/1065)) ([db2085c](https://github.com/revanced/revanced-patches/commit/db2085c217311a8b7d45a01c03c6162bc60a9298))
+### [2.112.0](https://github.com/revanced/revanced-patches/compare/v2.111.3...v2.112.0) (2022-11-19)
+### Features
+* **anytracker:** `unlock-premium` patch ([#1076](https://github.com/revanced/revanced-patches/issues/1076)) ([52b3d90](https://github.com/revanced/revanced-patches/commit/52b3d909bbe59dafaea0cb9da1c27bdd0cda502f))
 
   
 **App Versions:**  
