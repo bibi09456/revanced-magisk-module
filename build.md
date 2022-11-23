@@ -1,15 +1,15 @@
 CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.74.1.apk  
-Patches: revanced-patches-2.117.0.jar  
+Integrations: app-release-unsigned-v0.76.0.apk  
+Patches: revanced-patches-2.121.0.jar  
 
-### [2.117.0](https://github.com/revanced/revanced-patches/compare/v2.116.0...v2.117.0) (2022-11-21)
+### [2.121.0](https://github.com/revanced/revanced-patches/compare/v2.120.0...v2.121.0) (2022-11-23)
 ### Features
-* **tiktok:** `tiktok-web-login` patch ([#593](https://github.com/revanced/revanced-patches/issues/593)) ([233e578](https://github.com/revanced/revanced-patches/commit/233e578b4d1cd5e783369e0c855e8246d158f8ed))
+* **anytracker:** remove `unlock-premium` patch ([#1094](https://github.com/revanced/revanced-patches/issues/1094)) ([c3818be](https://github.com/revanced/revanced-patches/commit/c3818befc6e342ff04bc8e9fde84a667c123d7ab))
 
   
 **App Versions:**  
+YouTube: 17.45.36  
 Reddit: 2022.43.0  
-YouTube: 17.43.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
