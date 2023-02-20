@@ -11,9 +11,9 @@ Patches: revanced-patches-2.162.0.jar
 
   
 **App Versions:**  
-Twitch: 14.5.2  
 Reddit: 2023.05.0  
 YouTube: 18.03.36  
+Twitch: 14.5.2  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
