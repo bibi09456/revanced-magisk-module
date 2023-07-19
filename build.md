@@ -1,10 +1,10 @@
 YouTube: 18.23.35  
 YouTube-Extended: 18.25.40  
 Twitch: 15.4.1  
-Reddit: 2023.27.0  
+Reddit: 2023.28.0  
 Spotify: 8.8.50.466  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
@@ -48,8 +48,8 @@ Etc
 - [Other Countries](https://crowdin.com/project/revancedextended)
 ---
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: revanced/revanced-integrations-0.112.0.apk  
-Patches: revanced/revanced-patches-2.184.0.jar  
+Integrations: ReVanced/revanced-integrations-0.112.0.apk  
+Patches: ReVanced/revanced-patches-2.184.0.jar  
 
 ### [2.184.0](https://github.com/revanced/revanced-patches/compare/v2.183.1...v2.184.0) (2023-07-11)
 ### Features
